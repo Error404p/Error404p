@@ -9,63 +9,68 @@
 </div>
 
 ---
-
 <p align="center">
 <b>AI/ML Engineer building intelligent systems</b> — agentic AI gateways, GenAI tooling, and the backend infrastructure that ships them.
 </p>
 
+
+
 ---
 
 ### My Technical Skills
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,nodejs,ts" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,express,mongodb,postgres,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,express,mongodb,postgres,redis,docker" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,nginx,grafana,linux,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,grafana,git,nginx,vscode" />
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<samp>Trying to build whatever piques my interest — Agents, Pipelines, Backend Systems</samp>
 ---
 
-## Tech Stack
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-| Tools & Technologies | Badge |
-| --- | --- |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge&logo=tensorflow) ![scikit--learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge&logo=scikitlearn) ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge) |
-| **Backend Frameworks** | ![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi) ![Express](https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express) |
-| **Runtime** | ![Node.js](https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=nodedotjs) |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql) |
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws) |
-| **MLOps / DevOps** | ![Docker](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker) |
-| **Version Control** | ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github) |
-| **Tracking & Observability** | ![Grafana](https://img.shields.io/badge/GRAFANA-black?style=for-the-badge&logo=grafana) |
-| **Servers / OS** | ![Nginx](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx) ![Linux](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux) |
+<samp>Tools & Technologies</samp> | <samp>Badge</samp> |
+--- | --- |
+<samp>AI / ML</samp> | ![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge&logo=tensorflow) ![scikit--learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge&logo=scikitlearn) ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge)
+<samp>Backend Frameworks</samp> | ![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi) ![Express](https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express)
+<samp>Runtime</samp> | ![Node.js](https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=nodedotjs)
+<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk)
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql)
+<samp>Cloud Platforms</samp> | ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+<samp>MLOps / DevOps</samp> | ![Docker](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker)
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
+<samp>Tracking & Observability</samp> | ![Grafana](https://img.shields.io/badge/GRAFANA-black?style=for-the-badge&logo=grafana)
+<samp>Servers / OS</samp> | ![Nginx](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx) ![Linux](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Featured Projects
+### My GitHub Insights & Stats
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Error404p&show_icons=true&theme=github_dark&hide=issues"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Error404p&theme=github-dark-blue"/>
+</p>
 
-### 🤖 [homelanderclaw](https://github.com/Error404p/homelanderclaw) — AI Agent Gateway
-A self-hosted, OpenClaw-style gateway that connects messaging platforms to an LLM agent.
-- Bridges WhatsApp, Telegram, Discord, and Slack to a single agent backend
-- Persistent memory layer so the agent retains context across conversations
-- Tool-use support — the agent can browse the web, manage files, and execute code
-- Model-agnostic: works with OpenAI, Anthropic, or local Ollama models
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Error404p&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Error404p contribution activity" />
 
-`Node.js` `TypeScript` `LLM Tool Use` `Multi-platform Agents`
+<br>
+<details>
+  <p align="center">
+    <a href="https://github.com/Error404p">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Error404p&theme=transparent" />
+    </a>
+    <a href="https://github.com/Error404p">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404p&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/Error404p">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Error404p&theme=transparent" />
+    </a>
+  </p>
+</details>
 
-### ✍️ [linkpost](https://github.com/Error404p/linkpost) — GenAI Writing Assistant
-Analyzes a creator's past LinkedIn posts and generates new ones that match their writing style.
-- Extracts topic, tone, and length from historical posts
-- Uses few-shot prompting — relevant past posts are selected as in-context examples to guide the LLM's style
-- Streamlit interface backed by the Groq API
-
-`Python` `LLM Prompt Engineering` `Few-shot Learning` `Streamlit`
-
----
-
-<p align="center"><samp>Currently exploring: agentic AI architectures and LLM-powered tooling</samp></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
