@@ -6,7 +6,7 @@
   <a href="mailto:mahinchauhanthestudent67@gmail.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" /></a>
   <a href="https://twitter.com/MahinChauh52375"><img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=x" /></a>
   <a href="https://discord.com/users/mahin.chauhan"><img src="https://img.shields.io/badge/DISCORD-black?style=for-the-badge&logo=discord" /></a>
-  <a href="https://portfolio-seven-psi-ss4rsiysx9.vercel.app/"></a>
+  <a href="https://portfolio-seven-psi-ss4rsiysx9.vercel.app/"><img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react" /></a>
 </div>
 
 ---
