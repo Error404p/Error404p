@@ -1,16 +1,32 @@
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Error404p.Error404p" />
+  <br><br>
+  <a href="https://linkedin.com/in/mahin-chauhan-37a55928b/"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:mahinchauhanthestudent67@gmail.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://twitter.com/MahinChauh52375"><img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=x" /></a>
+  <a href="https://discord.com/users/mahin.chauhan"><img src="https://img.shields.io/badge/DISCORD-black?style=for-the-badge&logo=discord" /></a>
+  <a href="https://portfolio-seven-psi-ss4rsiysx9.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=react" /></a>
+</div>
+
+---
+
+<p align="center">
+<b>AI/ML Engineer building intelligent systems</b> — agentic AI gateways, GenAI tooling, and the backend infrastructure that ships them.
+</p>
+
+---
+
 ### My Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cuda,nodejs,ts" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,nodejs,ts,cuda" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,express,mongodb,postgres,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=fastapi,express,mongodb,postgres,redis,docker,kafka" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,linux" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=grafana,git,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,grafana,git,nginx,vscode,kubernetes,jenkins" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -23,13 +39,42 @@
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
-<samp>AI / ML</samp> | ![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge&logo=tensorflow) ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge&logo=scikitlearn) ![CUDA](https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia) ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge) |
+<samp>AI / ML</samp> | ![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge&logo=tensorflow) ![scikit--learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge&logo=scikitlearn) ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge) ![CUDA](https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia) |
 <samp>Backend Frameworks</samp> | ![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi) ![Express](https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express) |
 <samp>Runtime</samp> | ![Node.js](https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=nodedotjs) |
 <samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk) |
-<samp>Databases & Messaging</samp> | ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql) ![Redis](https://img.shields.io/badge/REDIS-black?style=for-the-badge&logo=redis) ![Apache Kafka](https://img.shields.io/badge/APACHE_KAFKA-black?style=for-the-badge&logo=apachekafka) |
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql) |
+<samp>Messaging & Streaming</samp> | ![Apache Kafka](https://img.shields.io/badge/KAFKA-black?style=for-the-badge&logo=apachekafka) |
 <samp>Cloud Platforms</samp> | ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws) |
-<samp>DevOps & CI/CD</samp> | ![Docker](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-black?style=for-the-badge&logo=kubernetes) ![Jenkins](https://img.shields.io/badge/JENKINS-black?style=for-the-badge&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-black?style=for-the-badge&logo=githubactions) ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge) |
+<samp>MLOps / DevOps</samp> | ![Docker](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-black?style=for-the-badge&logo=kubernetes) ![Jenkins](https://img.shields.io/badge/JENKINS-black?style=for-the-badge&logo=jenkins) ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge) |
 <samp>Version Control</samp> | ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github) |
 <samp>Tracking & Observability</samp> | ![Grafana](https://img.shields.io/badge/GRAFANA-black?style=for-the-badge&logo=grafana) |
 <samp>Servers / OS</samp> | ![Nginx](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx) ![Linux](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux) |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### My GitHub Insights & Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Error404p&show_icons=true&theme=github_dark&hide=issues"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Error404p&theme=github-dark-blue"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Error404p&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Error404p contribution activity" />
+
+<br>
+<details>
+  <p align="center">
+    <a href="https://github.com/Error404p">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Error404p&theme=transparent" />
+    </a>
+    <a href="https://github.com/Error404p">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404p&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/Error404p">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Error404p&theme=transparent" />
+    </a>
+  </p>
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
